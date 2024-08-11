@@ -12,6 +12,7 @@ body{
     border-radius: 15px;
     max-width: 500px;
     overflow: hidden;
+    max-height: 700px;
 }
 #display{
     width: 100%;
